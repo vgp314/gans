@@ -1,4 +1,4 @@
-## Couser 1 - Build Basic Generative Adversarial Networks (GANs)
+## Course 1 - Build Basic Generative Adversarial Networks (GANs)
 
 
 ### Week1
@@ -53,7 +53,7 @@
 		
 
 
-## Couser 2 - Build Better Generative Adversarial Networks (GANs) 
+## Course 2 - Build Better Generative Adversarial Networks (GANs) 
 
 ### Week 1 
 	- How to Evaluate GANS?
