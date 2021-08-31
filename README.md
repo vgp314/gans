@@ -72,6 +72,8 @@
 	- Machine Bias
 	- Fairness
 	- Ways that bias is introduced
+	- Assignment:
+		1) Be able to use a classifier to try and detect biases in a GAN by analyzing the generator's implicit associations.
 ### Week 3
 	- Gans Improvements
 	- Style GAN Overview
