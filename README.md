@@ -16,8 +16,41 @@
 		4) Train your GAN and visualize the generated images.
 
 ### Week2
+	- Activations
+	- Batch Normalization (Explained)
+	- Internal covariate shift
+	- Convolutions
+	- Pooling and Upsampling
+	- Transposed Convolutions
+	- Deep Convolutional GAN (DCGAN)
+	- Assigment:
+		1) Implement a Deep Convolutional GAN (DCGAN), a very successful and influential GAN model developed in 2015.
+		2) Build a GAN that can generate hand-written images of digits (0-9).
+		
+
+	
 ### Week3
+	- Mode Collapse
+	- Problem with BCE Lost
+	- Earth Movers Distance
+	- Wassertein Lost
+	- 1-Lipshitz Continous Enforcement (Gradient Penalty)
+	- WGAN
+	- Assigment:
+		1) Build a Wasserstein GAN with Gradient Penalty (WGAN-GP) that solves some of the stability issues with the GANs that you have been using up until this point
+	
 ### Week4
+	- Condicional Generation
+	- Assigment 1:
+		1) Make a conditional GAN in order to generate hand-written images of digits, conditioned on the digit to be generated (the class vector). 
+	- Controlable Generation
+	- Challenges in controlable generation
+	- Classifier Gradients
+	- Disentanglement
+	- Assingment 2:
+		1) Implement a GAN controllability method using gradients from a classifier. 
+		2) By training a classifier to recognize a relevant feature, you can use it to change the generator's inputs (z-vectors) to make it generate images with more or less of that feature.
+		
 
 
 ## Couser 2 - Build Better Generative Adversarial Networks (GANs) 
