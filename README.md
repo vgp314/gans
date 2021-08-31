@@ -59,6 +59,7 @@
 	- How to Evaluate GANS?
 	- Comparing Images
 	- Inception V3 and Embeddings
+	- Inception Score
 	- Sampling and Truncation
 	- Precision and Recall	
 	- Fréchet Inception Distance
