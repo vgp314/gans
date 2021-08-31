@@ -1,7 +1,7 @@
 ## Course 1 - Build Basic Generative Adversarial Networks (GANs)
 
 
-### Week1
+### Week 1
 	- Generative Models
 	- Real Life GANS
 	- Pre trained model exploration
@@ -15,7 +15,7 @@
 		3) Create generator and discriminator loss functions.
 		4) Train your GAN and visualize the generated images.
 
-### Week2
+### Week 2
 	- Activations
 	- Batch Normalization (Explained)
 	- Internal covariate shift
@@ -29,7 +29,7 @@
 		
 
 	
-### Week3
+### Week 3 
 	- Mode Collapse
 	- Problem with BCE Lost
 	- Earth Movers Distance
@@ -39,7 +39,7 @@
 	- Assigment:
 		1) Build a Wasserstein GAN with Gradient Penalty (WGAN-GP) that solves some of the stability issues with the GANs that you have been using up until this point
 	
-### Week4
+### Week 4
 	- Condicional Generation
 	- Assigment 1:
 		1) Make a conditional GAN in order to generate hand-written images of digits, conditioned on the digit to be generated (the class vector). 
